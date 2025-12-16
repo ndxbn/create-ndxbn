@@ -1,1 +1,1 @@
-# `bun craete ndxbn`
+## moved to https://github.com/ndxbn-tokyo/create-ndxbn
